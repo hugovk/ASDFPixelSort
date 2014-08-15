@@ -242,5 +242,5 @@ if __name__ == '__main__':
   
     outfile = filename + "_" + str(mode) + ".png"
     print "Saving to", outfile
-    img.save(outfile, quality=100)
+    img.save(outfile, quality=95)
     print("DONE")
