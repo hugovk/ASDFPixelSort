@@ -13,7 +13,11 @@ http://kimasendorf.com
 
 ---
 
-Python/PIL version, usage: 
+Python/PIL version. First:
+
+`pip install pillow`
+
+Usage: 
 
 `ASDFPixelSort.py imgfilename [mode]`
 
